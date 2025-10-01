@@ -8,10 +8,12 @@
 
 > An autonomous AI therapist powered by advanced NLP and emotional intelligence, providing personalized mental health support while ensuring privacy through blockchain technology. Built on Sonic Blaze Testnet with Zerepy agents.
 
+<h3> Project Link: https://mindspace03.vercel.app/ </h3>
+
 ## 📸 Project Showcase
 
 <div align="center">
-  <img src="https://i.imghippo.com/files/uath6507iKU.png" alt="Aura Dashboard" width="45%" />
+  <img src="./public/home.png" alt="Aura Dashboard" width="45%" />
   <img src="https://i.imghippo.com/files/CBbx8767gPg.png" alt="Therapy Session" width="45%" />
 </div>
 
@@ -162,9 +164,7 @@ const detectStressSignals = (message: string): StressPrompt | null => {
    ```bash
    cp .env.example .env
    # Add required API keys:
-   # - SONIC_PRIVATE_KEY
-   # - GEMINI_API_KEY
-   # - ZEREPY_API_KEY
+   # Add backend URL
    ```
 
 3. **Deploy Smart Contracts**
@@ -225,8 +225,6 @@ const detectStressSignals = (message: string): StressPrompt | null => {
 
 ## 🌟 Acknowledgments
 
-- Sonic
-- Zerepy AI Framework
 - Mental Health Professionals
 - Open Source Community
 
