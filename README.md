@@ -14,7 +14,6 @@
 
 <div align="center">
   <img src="./public/home.png" alt="Aura Dashboard" width="45%" />
-  <img src="https://i.imghippo.com/files/CBbx8767gPg.png" alt="Therapy Session" width="45%" />
 </div>
 
 <div align="center">
